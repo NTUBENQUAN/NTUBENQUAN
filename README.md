@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Benquan Wang (Ph.D. student at Nanyang Technological University)
 - 👀 I’m interested in Optical Imaging Algorithms and Artificial Intelligence
-- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on interdisciplinary worker combining deep learning with optical imaging
 - 📫 How to reach me : BENQUAN001@e.ntu.edu.sg
 
